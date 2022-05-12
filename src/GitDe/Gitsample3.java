@@ -7,7 +7,7 @@ public class Gitsample3 {
 
 		System.out.println("This is my master branch code");
 		System.out.println("This is my feature branch code");
-		
+		System.out.println("feature branch code added");
 	}
 
 }
